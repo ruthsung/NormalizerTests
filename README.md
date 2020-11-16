@@ -1,4 +1,4 @@
-
+//// Ruth Sung
 //// Instructions to run the test cases:
 
   make sure normalizer.py can be run on the machine
